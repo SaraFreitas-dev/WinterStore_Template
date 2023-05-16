@@ -18,6 +18,7 @@
 Usage
 </h2>
 <p>To use and explore the website template, you can access the website by clicking <a href="https://www.figma.com/proto/Ni2RinJFBG8ZkWL4uiAREp/%5BTemplate%5D-Ridgeline-Prototype-(Copy)?type=design&node-id=1603-262&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1603%3A262">here</a>.</p>
+  <p>In this repository, you also have a pdf template file and .fig file.</p>
 <br>
 
 
