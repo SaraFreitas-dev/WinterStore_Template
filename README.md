@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="height: 300px;" src="./prototype.gif">
+<img style="height: 100%;" src="./prototype.gif">
 <br>
 <br>
 
